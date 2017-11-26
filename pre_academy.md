@@ -20,20 +20,24 @@ I would combine these into 2 sessions, where they do some computing and some mak
 
 If there's time, they could also:
 
-- make a fabISP
+- make a fabISP (inventory?)
 
-- learn some fusion 360 and copy someone else's pressfit kit from a previous year. Evaluate that person's documentation and decide whether you would do it differently & how. is it the style of the website, the style of writing, too many images/not enough images etc.  
+- learn some fusion 360 and copy someone else's pressfit kit from a previous year. Evaluate that person's documentation and decide whether you would do it differently & how. Is it the layout of the website, the style of writing, too many images/not enough images etc. Use a pre-existing [grasshopper definition](http://www.co-de-it.com/wordpress/code/grasshopper-code) such as Seamless Pattern and adjust it, then print it out.   
 
 Throughout these activities, they must take screenshots and photos & videos of each other doing interesting fabby things and upload them to a shared folder because they can use all of this in their fab Academy documentation. Of course. And also, it's a good habit to start early... #fablabuae #fabacademy2018 etc. 
 
-### Have You:
+### For next week, have you:
 
-- Ensured that [Time Snapper Classic](http://www.timesnapper.com/DownloadClassic.aspx) is installed on the windows side of any computers that will be used during Fab Academy
+- Ensured that [Time Snapper Classic](http://www.timesnapper.com/DownloadClassic.aspx) is installed on the windows side of any computers that will be used during Fab Academy. Or one of these [alternatives](https://alternativeto.net/software/timesnapper/) for other platforms. 
 - Checked that all the software is up to date on the lab computers
-- Booked the equipment & room we'll need for next week
-- Found three examples of different websites & styles of documentation from last year's fab academy students.
+- Checked the MCU connection & tested the microphone/speakers
+- Booked the equipment & rooms we'll need for next week
+- Found three examples of different fab academy websites & styles of documentation from last year's students so that we can analyse them in class.
 - Created the Lab page on the Archive
 - Posted a group photo on social media of the new fablabuae fab academy students
+- Ensured that there is 3 or 4mm corrugated cardboard ordered for Week Three and that there is enough electronics inventory for the fabISP project
+- Sent a message to all of the students reminding them of the time & place of the first class and thanking them for getting involved in Pre-Academy
+- 
 
 
 
