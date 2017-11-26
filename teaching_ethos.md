@@ -34,7 +34,7 @@ I encourage students to document the way they are most comfortable and to take o
 
 ##### Your plans for developing yourself as a teacher.
 
-I'm always trying out new ways of teaching and adapting old ways. I read a bit of Papert, Piaget, and talk a lot with other people. I test things out with my students - ask them how the session went and what might have worked better, what worked well. They teach me, I teach them. 
+I'm always trying out new ways of teaching and adapting old ways. I read a bit of [Papert](http://www.papert.org/), [Piaget](https://www.simplypsychology.org/piaget.html) and [Constructionism/Constructivism](http://guzdial.cc.gatech.edu/Commentary/construct.html), and talk a lot with other people. I test things out with my students - ask them how the session went and what might have worked better, what worked well. They teach me, I teach them. 
 
 I often say:
 **'I'm not an expert, I've just had more time to make mistakes and learn from them than you'.**
