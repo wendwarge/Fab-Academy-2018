@@ -33,7 +33,7 @@ Activities that I suggest are:
 
 - learn some basics of open source software. Learn how to resize & compress photos using Gimp. Make a vinyl sticker in Inkscape. Make a tinkercad model and print it out, using the knowledge gained from the torture test.  
 
-- do a git tutorial.
+- do a git [tutorial](https://try.github.io/levels/1/challenges/1) or [two](http://learngitbranching.js.org/).
 
 - do some W3 [tutorials](https://www.w3schools.com/). 
 
