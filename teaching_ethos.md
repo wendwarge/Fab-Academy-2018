@@ -1,0 +1,5 @@
+# Teaching Ethos
+
+Throughout these sessions, ensure that you are helping them to get to know each other and that they know that you don't know absolutely everything in the whole wide world. We cannot know everything there is to know about everything, but we can teach people how to find information and evaluate the usefulness of the information. The environment that we create now is the one that lasts. 
+
+If someone asks you a question and you have already helped someone else with that, you can say "Mr Blahblah can answer that question" and then you support Mr Blahblah to answer it. If someone is having a problem, check to see if anyone else is having that problem, and invite everyone to come and see a way to solve it. Set up your sessions so that they know that searching on a 'preferred search engine' is often your first step and is just a matter of getting the question right. The attitude you want to communicate throughout is: let's solve this together. 
