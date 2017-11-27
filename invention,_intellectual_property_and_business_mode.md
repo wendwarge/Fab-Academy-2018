@@ -1,1 +1,3 @@
 # Invention, Intellectual Property and Business Models
+
+Look at the Creative Commons [website](https://creativecommons.org/) and examine a few examples of people using open licenses - [Ultimaker](https://en.wikipedia.org/wiki/Ultimaker), [thingiverse](https://en.wikipedia.org/wiki/Thingiverse), [wikipedia](https://en.wikipedia.org/wiki/History_of_Wikipedia). Do the group project for the 3D printing week: download a torture test from thingiverse. Check and discuss the license - what would you write on your fab academy page to acknowledge this license? Discuss what sort of license you might choose for your final project. If you modified the torture test and uploaded the new version to thingiverse, how would you acknowledge the originator?
