@@ -1,6 +1,6 @@
 # Pre-Academy Activities
 
-It is a good idea to offer some sessions prior to Academy. These sessions serve a number of purposes: to introduce the students to some basic skills and the fab lab spaces, to introduce them to the ethos of the programme and thirdly, **most importantly**, introduce them to each other & the instructor/s. Building a strong team feeling early in the programme will help everyone to succeed together instead of competitively. 
+It is a good idea to offer some sessions prior to Academy. These sessions serve a few purposes: to introduce the students to some basic skills and the fab lab spaces, to introduce them to the ethos of the programme and thirdly, **most importantly**, introduce them to each other & the instructor/s. Building a strong team feeling early in the programme will help everyone to succeed together instead of competitively. 
 
 I can phone in as the 'regional reviewer' at the beginning to introduce the day's work with a short lecture and Carl can be a remote student. It'll be a taste of the global programme in every way.
 
@@ -24,7 +24,7 @@ If there's time, they could also:
 
 - learn some fusion 360 and copy someone else's pressfit kit from a previous year. Evaluate that person's documentation and decide whether you would do it differently & how. Is it the layout of the website, the style of writing, too many images/not enough images etc. Use a pre-existing [grasshopper definition](http://www.co-de-it.com/wordpress/code/grasshopper-code) such as Seamless Pattern and adjust it, then print it out.   
 
-Throughout these activities, they must take screenshots and photos & videos of each other doing interesting fabby things and upload them to a shared folder because they can use all of this in their fab Academy documentation. Of course. And also, it's a good habit to start early... #fablabuae #fabacademy2018 etc. 
+Throughout these activities, they will develop the habit of taking screenshots and photos & videos of each other doing interesting fabby things and uploading them to a shared folder because they can use all of this in their Fab Academy documentation. Of course. And also, it's a good habit to start early... #fablabuae #fabacademy2018 etc. 
 
 ### For next week, have you:
 
@@ -32,12 +32,9 @@ Throughout these activities, they must take screenshots and photos & videos of e
 - Checked that all the software is up to date on the lab computers
 - Checked the MCU connection & tested the microphone/speakers
 - Booked the equipment & rooms we'll need for next week
-- Found three examples of different fab academy websites & styles of documentation from last year's students so that we can analyse them in class.
+- Found three examples of good but differing fab academy websites & styles of documentation from last year's students so that we can analyse them in class.
 - Created the Lab page on the Archive
 - Posted a group photo on social media of the new fablabuae fab academy students
 - Ensured that there is 3 or 4mm corrugated cardboard ordered for Week Three and that there is enough electronics inventory for the fabISP project
 - Sent a message to all of the students reminding them of the time & place of the first class and thanking them for getting involved in Pre-Academy
-- 
-
-
 
