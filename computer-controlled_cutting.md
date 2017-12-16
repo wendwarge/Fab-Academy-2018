@@ -9,4 +9,4 @@
 ## Vinyl Cutting
 
 **Include Pre Academy documentation:** Make a vinyl sticker in Inkscape. Print it using Fab Modules. 
-If pre-academy happened, then we can do something interesting here, like make screenprinted fab academy scarves or flexible circuit nametags.
+If pre-academy happened, then we can do something interesting here, like make screenprinted fab academy scarves with a 0011010101 pattern (to wear at Fab14) using [photochromic pigments](https://solarcolordust.com/t/solar-color-dust) or flexible circuit nametags.

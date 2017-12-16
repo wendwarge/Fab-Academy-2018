@@ -10,7 +10,7 @@ Activities that I suggest are:
 
 - learn about using BASH. Follow the Bash for Beginners [tutorial](https://help.ubuntu.com/community/Beginners/BashScripting) or another tutorial that you like more.
 
-- practise some basics using open source software. Learn how to resize & compress photos using Gimp. Use [ImageMagick](https://www.imagemagick.org/script/index.php) to change image size via command line. Make a vinyl sticker in Inkscape. Print it using Fab Modules. Make a tinkercad model and print it out, using the knowledge gained from the torture test. Try out [Antimony](http://www.mattkeeter.com/projects/antimony/3/) & [NodeBox3](https://www.nodebox.net/node/).  
+- practise some basics using open source software. Learn how to resize & compress photos using Gimp. Use [ImageMagick](https://www.imagemagick.org/script/index.php) to change image size via command line. Make a vinyl sticker in Inkscape. Download an SVG from [The Noun Project](https://thenounproject.com/) Pay attention to the licence. Print it using Fab Modules. Make a tinkercad model and print it out, using the knowledge gained from the torture test. Try out [Antimony](http://www.mattkeeter.com/projects/antimony/3/) & [NodeBox3](https://www.nodebox.net/node/).  
 
 - do a git [tutorial](https://try.github.io/levels/1/challenges/1) or [two](http://learngitbranching.js.org/).
 

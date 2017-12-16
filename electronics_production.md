@@ -1,7 +1,10 @@
 # Electronics Production
 
 The challenge this week is for our students to document this project as interestingly as possible!
-- remember who your audience is - the global evaluator and other fab academy students. Show your personality and help people _feel_ the pain, the frustration and the funny parts of your fab academy journey.
 
-**Research task:** Look at a lot of student pages and find the funny moments, the humorous stories, and the most entertaining documentation. What is it that makes that page stand out from other pages? Decide what you might try with your documentation this week.
+- remember who your audience is: the global evaluator and other fab academy students. 
+
+Show your personality and help people **_feel_** the satisfaction, the pain, the frustration and the hilarious parts of your fab academy journey.
+
+**Research task:** Look at a lot of student pages for this week and find the funny moments, the humorous stories, and the most entertaining documentation. What is it that makes one page stand out from other pages? Based on this, decide what you might try with your documentation this week.
 
