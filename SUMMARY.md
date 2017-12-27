@@ -1,6 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
+* [Selecting Students](students.md)
+* [Student Space](space.md)
 * [Pre-Academy](pre_academy.md)
 * [Teaching Ethos](teaching_ethos.md)
 * [Principles and Practices, Project Management](principles_and_practices,_project_management.md)
