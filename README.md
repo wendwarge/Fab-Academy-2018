@@ -1,7 +1,5 @@
 # Fab Academy Instruction 2018
 
-Read the Gitbook [here](https://wendwarge.gitbooks.io/fab-academy-2018/content/)
-
 Prior to Fab Academy, there are a number of things that instructors need to do to prepare for the upcoming cycle. Each cycle is slightly different, so flexibility and agility is essential throughout.
 
 The first steps, loosely in order are:

@@ -1,11 +1,11 @@
-# Principles and Practices, Project Management
+# Principles and Practices
 
 If we haven't done Pre Academy, then we'll do some of the tasks in that.
 
 The three websites from 2016 or 2017:
--
--
--
+- [Helga](http://fabacademy.org/archives/2015/eu/students/hauksdottir.sigridur_helga/index.html) 
+- [JC Chang](http://archive.fabacademy.org/archives/2016/fablabtaipei/students/184/#portfolio)
+- [Hyejin](http://archive.fabacademy.org/archives/2017/fablabseoul/students/351/)
 
 **Research:** Look at previous students' work and evaluate. Make notes of the tools they have used and explore the resources associated with them. 
 
@@ -15,4 +15,4 @@ The three websites from 2016 or 2017:
 
 Use the google search bar in the archive. 
 
-- do the [hello world thing](https://helloworldcollection.github.io/) that Neil talks about.
+- look at the [hello world thing](https://helloworldcollection.github.io/) that Neil talks about.
