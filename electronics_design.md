@@ -32,7 +32,7 @@
 - For windows: you need to copy the *lib* file into *PC/C/Eagle/lbr* folder.
 library
 <p align="center">
-   ![](pics/electronics-design/eaglelbr1.PNG)
+   ![](pics/electronics-design/eaglelbr1.png)
 </p>
 (PC is the computer name)
 - On the [Mac](http://fabacademy.org/2018/docs/FabAcademy-Tutorials/week6_electronic_design/eagle_english.html), it should be /Applications/EAGLE-8.#.#/lbr/
@@ -43,7 +43,7 @@ library
 
 Open eagle and click on Libraries tab then click on **use all**
 <p align="center">
-   ![](pics/electronics-design/eaglelbr2.PNG)
+   ![](pics/electronics-design/eaglelbr2.png)
 </p>
 ### **Online Tutorials**  
 [Sparkfun Eagle Tutorial-1](https://learn.sparkfun.com/tutorials/using-eagle-schematic)  
