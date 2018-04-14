@@ -26,8 +26,10 @@
 ## **EagleCAD**
 
 [Download the software](https://www.autodesk.com/education/free-software/eagle)  
-[Download Libraries](https://www.autodesk.com/education/free-software/eagle)    
+[Download Libraries](https://www.autodesk.com/education/free-software/eagle)  
+
 ### **Adding  Libraries** (fab library as example)
+
 - download [fab](http://academy.cba.mit.edu/classes/electronics_design/index .html) library
 - For windows: you need to copy the *lib* file into *PC/C/Eagle/lbr* folder.
 library
@@ -45,6 +47,7 @@ Open eagle and click on Libraries tab then click on **use all**
 <p align="center">
    ![](pics/electronics-design/eaglelbr2.png)
 </p>
+  
 ### **Online Tutorials**  
 [Sparkfun Eagle Tutorial-1](https://learn.sparkfun.com/tutorials/using-eagle-schematic)  
 [Sparkfun Eagle Tutorial-2](https://learn.sparkfun.com/tutorials/using-eagle-board-layout)  
