@@ -33,7 +33,7 @@
 - download [fab](http://academy.cba.mit.edu/classes/electronics_design/index .html) library
 - For windows: you need to copy the *lib* file into *PC/C/Eagle/lbr* folder.  
 
-   ![](pics/electronics-design/eaglelbr1.png)
+   ![""](pics/electronics-design/eaglelbr1.png)
 
 (PC is the computer name)  
 
