@@ -33,12 +33,12 @@
 - download [fab](http://academy.cba.mit.edu/classes/electronics_design/index .html) library
 - For windows: you need to copy the *lib* file into *PC/C/Eagle/lbr* folder.  
 
-<p align="center">
    ![](pics/electronics-design/eaglelbr1.png)
-</p>
+
 (PC is the computer name)  
 
-- On the [Mac](http://fabacademy.org/2018/docs/FabAcademy-Tutorials/week6_electronic_design/eagle_english.html), it should be /Applications/EAGLE-8.#.#/lbr/  
+- On the
+ [Mac](http://fabacademy.org/2018/docs/FabAcademy-Tutorials/week6_electronic_design/eagle_english.html), it should be /Applications/EAGLE-8.#.#/lbr/  
 
 - On [Linux](http://fabacademy.org/2018/docs/FabAcademy-Tutorials/week6_electronic_design/eagle_english.html), the default install location is /opt/eagle-8.#.#/lbr/  
 
@@ -47,9 +47,9 @@
 
 
 Open eagle and click on Libraries tab then click on **use all**
-<p align="center">
+
    ![](pics/electronics-design/eaglelbr2.png)
-</p>
+
 ### **Online Tutorials**  
 [Sparkfun Eagle Tutorial-1](https://learn.sparkfun.com/tutorials/using-eagle-schematic)  
 [Sparkfun Eagle Tutorial-2](https://learn.sparkfun.com/tutorials/using-eagle-board-layout)  
