@@ -33,7 +33,7 @@
 - download [fab](http://academy.cba.mit.edu/classes/electronics_design/index .html) library
 - For windows: you need to copy the *lib* file into *PC/C/Eagle/lbr* folder.  
 
-   ![""](pics/electronics-design/eaglelbr1.png)
+   ![folder for eagle](https://github.com/wendwarge/Fab-Academy-2018/tree/master/pics/electronics-design/eaglelbr1.png)
 
 (PC is the computer name)  
 
@@ -48,7 +48,7 @@
 
 Open eagle and click on Libraries tab then click on **use all**
 
-   ![](pics/electronics-design/eaglelbr2.png)
+   ![use all eagle](https://github.com/wendwarge/Fab-Academy-2018/tree/master/pics/electronics-design/electronics-design/eaglelbr2.png)
 
 ### **Online Tutorials**  
 [Sparkfun Eagle Tutorial-1](https://learn.sparkfun.com/tutorials/using-eagle-schematic)  
