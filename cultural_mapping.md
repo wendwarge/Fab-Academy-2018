@@ -21,3 +21,5 @@ You can see that countries are spread all across the spectrum - obviously the on
 The following example showing differences in hierarchies is also quite illuminating. It becomes interesting when you think that often the countries who are most inflexible about time are the least hierarchical in their leadership qualities. 
 
 ![Scheduling Differences](media/culturemapleading.png)
+
+I highly recommend reading this book and discussing it frequently with others.
