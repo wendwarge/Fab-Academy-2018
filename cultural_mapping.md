@@ -14,4 +14,4 @@ A great book for helping us understand this is the [Culture Map](https://www.eri
 
 An example of her thinking around this is the differences in attitudes to scheduling. 
 
-![Scheduling Differences](https://github.com/wendwarge/Fab-Academy-2018/tree/master/media/culturemapscheduling.jpg)
+![Scheduling Differences](media/culturemapscheduling.jpg)
