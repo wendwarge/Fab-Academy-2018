@@ -30,3 +30,5 @@ Spiral Development assumes that you don't know everything. It also assumes that 
 With your new understanding, you would ask:
 
 What is the next thing I can do to test that my idea has merit, or that my new understanding is robust?
+
+You can now see why it's called Spiral Design - each cycle is successful in itself, or allows you to find a first success to build on.
