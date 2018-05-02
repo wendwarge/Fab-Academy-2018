@@ -32,7 +32,7 @@ A few of the questions I might ask when deciding how to structure a week/course 
 We will generally start by unpacking what Neil has talked about. It helps that we can watch the video and pause it whenever we like. It might take us a day to work through a class video. Three hours is a long time to sit down for anyone.
 I develop activities that encourage working together, getting to know each other, becoming comfortable with the archive and building on other people's work. To explore, to acknowledge that students bring knowledge & skills with them. To start getting the right search terms, to get to know the broader fab community, to feel confident about expressing opinions, to learn how to learn etc. 
 
-For me, each week has a primary outcome and a secondary outcome. The primary outcome is engaging with others and the (fab) world, to gain a sense of agency in this new digitally enhanced environment, to begin to find each person's place. The secondary outcome is to learn how to do the tasks.
+For me, each week has a primary outcome and a secondary outcome, see the Educational Ethos page. The primary outcome is engaging with others and the (fab) world, to gain a sense of agency in this new digitally enhanced environment, to begin to find each person's place. The secondary outcome is to learn how to do the tasks using the hardware and software.
  
 ##### A statement that demonstrates your knowledge about how students learn in your discipline.
 

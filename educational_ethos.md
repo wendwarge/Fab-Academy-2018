@@ -2,10 +2,10 @@
 
 Fab Academy is a big challenge for two main reasons. 
 
-1.  Learning new technical skills, both software and hardware (training)
-2.  Learning that *process* is as important as, if not more important than, outcome (education)
+1.  Learning that *process* is as important as, if not more important than, outcome (education)
+2.  Learning new technical skills, both software and hardware (training)
 
-In the context of digital fabrication, you can learn how to use a laser cutter or 3D printer anywhere now, but you can't learn how to learn from your own process just anywhere. Once you do learn how you learn, you can apply it anywhere and to anything.
+In the context of digital fabrication, you can learn how to use a laser cutter or 3D printer anywhere now, but you can't learn how to learn from your own process just anywhere. Once you do learn how you learn, you can apply it anywhere and to anything. That why I think that the first challenge is the most important, and that the second challenge is just a vehicle for achieving the first challenge. 
 
 ### Process Context
 
