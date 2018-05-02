@@ -17,7 +17,7 @@ Although Fab Academy is evaluated to a fairly loosely framed standard, students 
 
 It is a big leap for graduates of a traditional standards-based system to engage with the seemingly amorphous system of Fab Academy. Spiral Development is the framework within which we work and this is the essence of 'learning how to learn' in a maker-centred learning environment. During Fab Academy, the aim is for students to become more open about their mistakes so that they can reflect on them with their instructor and other fabbers, enabling them to clearly define the parameters of their next experiment. 
 
-For a designer, this process is more integrated into their practise, because design is always experimental. For an engineer, this process is outside their experience because engineering follows specific rules. Because we're operating within a new field, all the rules haven't been made yet, so there is a lot of room for experimentation. We're still constrained by things like the rules of physics, but we can 'play' a lot more.
+For a designer, this process is more integrated into their practise, because design is always experimental. For an engineer, this process is often outside their experience because engineering follows specific rules. We're operating within a new field, all the rules haven't been made yet, so there is a lot of room for experimentation. Of course, we're still constrained by things like the rules of physics, but we can 'play' a lot more.
 
 ### Spiral Development
 
@@ -31,6 +31,6 @@ With your new understanding, you would ask:
 
 What is the next thing I can do to test whether my idea has merit, or that my new understanding is robust?
 
-You can now see why it's called Spiral Design - each cycle is successful in itself, or allows you to find a first success to build on. One of the big challenges in the early weeks of Fab Academy is to keep building the culture of moving past the Bare Minimum. Because many of our students are so used to the standards-based system, they habitually stop at the Bare Minimum and we have to keep encouraging them to continue. Asking squestions that foster curiosity is a way of doing this. I might ask: are you curious to know whether you can acheive this step now? I wonder what would happen if you tried this? I'm curious - will you indulge me and try this step now?etc
+You can now see why it's called Spiral Design - each cycle is successful in itself, or allows you to find a first success to build on. One of the big challenges in the early weeks of Fab Academy is to keep building the culture of moving past the Bare Minimum. Because many of our students are so used to the standards-based system, they habitually stop at the Bare Minimum and we have to keep encouraging them to continue. Asking questions that foster curiosity is a way of doing this. I might ask: are you curious to know whether you can achieve this step now? I wonder what would happen if you tried this? I'm curious - will you indulge me and try this step now?etc
 
-Again, students who are used to the other system will see this as the instructor asking them to do extra work. They ask what is the standard and why do you ask other students to do one thing and me to do something else. 
+Again, students who are used to the other system will see this as the instructor asking them to do extra work. They ask what is the standard and wonder why you ask other students to do one thing and me to do something else. 
