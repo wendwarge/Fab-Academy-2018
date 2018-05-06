@@ -16,7 +16,7 @@ An example of her thinking around this is the differences in attitudes to schedu
 
 ![Scheduling Differences](media/culturemapscheduling.jpg)
 
-You can see that countries are spread all across the spectrum - obviously the ones at either end are going to have to work hard to understand each other, but, as Erin Meyer points out, countries closer together are comaratively different. In the above example, Polish people might find French people too relaxed but Russians might find them too rigid.
+You can see that countries are spread all across the spectrum - obviously the ones at either end are going to have to work hard to understand each other, but, as Erin Meyer points out, countries closer together are relatively different. In the above example, Polish people might find French people too relaxed but Russians might find the French too rigid.
 
 The following example showing differences in hierarchies is also quite illuminating. It becomes interesting when you think that often the countries who are most inflexible about time are the least hierarchical in their leadership qualities. 
 

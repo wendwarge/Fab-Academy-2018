@@ -14,4 +14,4 @@ The benefits of this are also that the students are visible to your broader fab 
 
 ## Code of Conduct
 
-We will establish a Code of Conduct within the first week, which will set out expected group behaviours towards each other and how we all work in the space. Maybe we can make our first video together - watch the [Tom Sachs video](https://www.youtube.com/watch?v=49p1JVLHUos) as a fun but serious example.
+We will establish a Code of Conduct within the first week, which will set out expected group behaviours towards each other and how we all work in the space. Maybe we can make our first video together - watch the [Tom Sachs video](https://www.youtube.com/watch?v=49p1JVLHUos) as a fun but serious example. There are a number of existing Codes of Conduct that have an Open License you can examine, but I advise caution when looking to Fab Lab Wgtn here - our Code is based on specific cultural values that do not match the values of Fab lab UAE, and may cause offense. 
