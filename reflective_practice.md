@@ -10,37 +10,37 @@ We're not trying to turn anyone into an academic, just encouraging resilient lea
 
 ## A way of thinking about this is through the weekly cycle of Fab Academy:
 
-Class begins - you listen to Neil talk about the subject at hand, and follow the links he has on the schedule page. You listen and read - absorb. (And document)
+- Class begins - you listen to Neil talk about the subject at hand, and follow the links he has on the schedule page. You listen and read - absorb. (and document)
 
-Afterwards, your local mentor will offer a session which will unpack the class. You'll participate, watch, try and ask questions. (And document)
+- Afterwards, your local mentor will offer a session which will unpack the class. You'll participate, watch, try and ask questions. (and document)
 
-You'll do some more looking, probably at how students have acheived this project previously, look at the Assessment doc, talk with others around you about what everyone plans to do, continue checking the links from class. (And document)
+- You do some more looking, probably at how students have acheived this project previously, look at the Assessment doc, talk with others around you about what everyone plans to do, continue checking the links from class. (and document)
 
-You might try out some tutorials. (And document)
+- You might try out some tutorials. (and document)
 
-You begin your first experiment, maybe a test component. (And document)
+- You begin your first experiment, maybe a test component. (and document)
 
-You show other people and discuss the result. (And document)
+- You show other people and discuss the result. (and document)
 
-You summarise what you've done and what you've found out, what went well, what you'd do differently, on your page and push. The minute it's up on the web, you read what you wrote, once again. 
+- You summarise what you've done and what you've found out, what went well, what you'd do differently, on your page and push. The minute it's up on the web, you read what you wrote, once again. 
 
-#### Somehow, you get a new perspective and a new way of thinking about the project, even though you read it very carefully before you pushed.
+_Somehow, you get a new perspective and a new way of thinking about the project, even though you read it very carefully before you pushed._
 
-You plan a new experiment - an adjustment of the first one, **based on what you learnt** and ...
+- You plan a new experiment - an adjustment of the first one, **based on what you learnt** and ...
 
-You do some more looking, probably at how students have acheived this project previously, look at the Assessment doc, talk with others around you, with this new knowledge affecting your understanding. (And document)
+- You do some more looking, probably at how students have acheived this project previously, look at the Assessment doc, talk with others around you, with this new knowledge affecting your understanding. (and document)
 
-You might try out some more tutorials. (And document)
+- You might try out some more tutorials. (and document)
 
-You begin your next experiment, another component or a modified component. (And document)
+- You begin your next experiment, another component or a modified component. (and document)
 
-You show other people and discuss the result. (And document)
+- You show other people and discuss the result. (and document)
 
-You summarise what you've done and what you've found out, what went well, what you'd do differently, on your page and push. 
+- You summarise what you've done and what you've found out, what went well, what you'd do differently, on your page and push. 
 
-#### The minute it's up on the web, you get a new perspective and a new way of thinking about the project. You will notice that (And Document) is included in just about every part of the process: it's not the boring bit at the end - it's the most important bit!!!
+_The minute it's up on the web, you get a new perspective and a new way of thinking about the project. You will notice that (and document) is included in just about every part of the process: it's not the boring bit at the end - it's the most important bit!!!_
 
-You run out of time, so you make some notes for how to continue this experiment when you have time - what the possibilities, the tangents are that you could follow.
+- Your time is up for this week, so you make some notes for how to continue this experiment when you have time - what the possibilities, the tangents are that you could follow.
 
 
 Whether you call it Spiral Development or Reflective Practice, it's ~the same thing - and it's a good thing to do. And you don't have to be a genius to make it work, you have to work hard to make this a standard practice for you and you have to work with others. Reflective practice relies on interacting with other people, listening to what they say and then thinking about it. And generously, kindly, offering your own thoughts to others. 
