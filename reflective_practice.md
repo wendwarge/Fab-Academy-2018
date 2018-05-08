@@ -43,8 +43,8 @@ _The minute it's up on the web, you get a new perspective and a new way of think
 - Your time is up for this week, so you make some notes for how to continue this experiment when you have time - what the possibilities, the tangents are that you could follow.
 
 
-Whether you call it Spiral Development or Reflective Practice, it's ~the same thing - and it's a good thing to do. And you don't have to be a genius to make it work, you have to work hard to make this a standard practice for you and you have to work with others. Reflective practice relies on interacting with other people, listening to what they say and then thinking about it. And generously, kindly, offering your own thoughts to others. 
+Spiral Development and Reflective Practice are good skills to have. And you don't have to be a genius to make them work, you have to work hard to make this a standard practice for you, and you have to work with others. Reflective practice relies on interacting with other people, listening to what they say and then thinking about it. And generously, kindly, offering your own thoughts to others. 
 
-You are learning a new skill - just remember that it took quite a while to learn how to walk and talk, look at how determined children are when they do it. Daily practice really pays off, doesn't it?
+You are learning a new skill - just remember that it took quite a while to learn how to walk and talk. If you can't remember, look at how determined children are when they do it. Daily practice really pays off, doesn't it?
 
 
