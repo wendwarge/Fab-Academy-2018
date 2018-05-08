@@ -26,13 +26,13 @@ I highly recommend reading this book and discussing it frequently with others. I
 
 The suggestions below come from my experience as a host and as a visitor. The best advice that I can offer is:
 
-***Be explicit | Don't Assume anything*** 
+***Be explicit | Don't assume anything*** 
 
 Erin Meyer calls it Low Context communication - assume that your guest has absolutely no context for understanding this new environment. Being explicit about particular things in your own culture is difficult because you inhabit it and take these things for granted. If you are from a high context culture it is also embarrassing, as it feels like you're treating the person like a child. It's important to ask for feedback from your guests so that you can improve your information & process for next time - each person will notice different things. 
 
 ![Communication Differences](media/culturemapcommun.png)
 
-Easy to say, but not easy to do. This works for both sides. Think about all the stereotypes you know about your country and look at the culture map images above. Again, it is easy to think that a country close to you on a particular culture map doesn't need as much explanation as one further from you, but that's not true - subtle differences can be just as challenging. The real examples below show when explicit communication will help the people in this situation.
+'Don't assume anything' is easy to say, but not easy to do. This works for both sides. Think about all the stereotypes you know about your country and look at the culture map images above. Again, it is easy to think that a country close to you on a particular culture map doesn't need as much explanation as one further from you, but that's not true - subtle differences can be just as challenging. The real examples below show when explicit communication will help the people in this situation.
 
 - In some cultures, it is respectful to avert your eyes when your teacher is talking to you, whereas in others a student makes eye contact to indicate that they're paying attention. If the teacher expects eye contact, but the student is looking away, the teacher might assume that they aren't paying attention. 
 - In some cultures, it is respectful to ask questions of the teacher individually after class, whereas in others it is expected that questions will be asked during class. If a student waits until after class to ask questions, the teacher might assume that the student didn't understand the class at all.
