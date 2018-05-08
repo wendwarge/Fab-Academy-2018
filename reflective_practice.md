@@ -4,7 +4,7 @@
 
 One of the biggest myths we have is that you're either smart or you're not. Recently, in early childhood education, there has been a move to stop praising children by saying that they're clever as it can demotivate others and also lead to the child thinking that failure means that they're no longer clever. Alternative practice now focuses on praising the child's hard work or the concentration & determination that the child has shown.  
 
-It's the same for adults - hard work and concentration are key to learning new skills and behaviours. But the work must be in the right direction, and this is where reflective practice comes in. Spiral Development doesn't work if we don't develop a Reflective Practice. The best thing about Fab Academy is learning from your own experience, rather than learning by reading, or listening to someone else's experience. I'm not saying it's the easiest thing, but it's a worthwhile thing to do.
+It's the same for adults - hard work and concentration are key to learning new skills and behaviours. But the work must be in the right direction, and this is where reflective practice comes in. Spiral Development doesn't work if we don't develop a Reflective Practice. The best thing about Fab Academy is learning from your own experience, rather than only learning by reading, or listening to someone else's experience. I'm not saying it's the easiest thing, but it's a worthwhile thing to do.
 
 We're not trying to turn anyone into an academic, just encouraging resilient learning, where you are able to apply your own reflective practice to experiential learning in a shared space like a fab lab and grow beyond your own expectations. 
 
