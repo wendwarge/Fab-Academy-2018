@@ -14,10 +14,10 @@ The benefits of this are also that the students are visible to your broader fab 
 
 ## Code of Conduct
 
-We will establish a Code of Conduct within the first week, which will set out expected group behaviours towards each other and how we all work in the space. Maybe we can make our first video together - watch the [Tom Sachs video](https://www.youtube.com/watch?v=49p1JVLHUos) as a fun but serious example of a business Code of Conduct. We are not a business, so there will be some other areas included. There are a number of existing Codes of Conduct that have an Open License, but I advise caution when looking to Fab Lab Wgtn here - I believe that we were the first fab lab to create a Code of Conduct, but our Code is based on specific cultural values that do not match the values within the UAE, and may cause offense.
+We establish a Code of Conduct within the first week, which will set out expected group behaviours towards each other and how we all work in the space. Maybe we make our first video together - watch the [Tom Sachs video](https://www.youtube.com/watch?v=49p1JVLHUos) as a fun but serious example of a business Code of Conduct. We are not a business, so there will be other areas included. There are a number of existing Codes of Conduct that have an Open License, but I advise caution when looking to Fab Lab Wgtn here - I believe that we were the first fab lab to create a Code of Conduct, but our Code is based on specific cultural values that do not match the values within the UAE, and may cause offense.
 
 Maslow's Hierarchy of Needs is a useful tool to help you develop a Code of Conduct - will the statements in your Code help you and your students to work at the highest level? In some countries you can assume that most people have the bottom two layers secured and that everyone is working from there. However there are many countries, and individual circumstances, where this is not true. A useful Code of Conduct for Fab Academy will include a statement that identifies what to do if someone is struggling with housing/health/safety - if a student has these issues, their studies will suffer. However, we are not psychologists or psychiatrists - we can only support our students to seek the appropriate professional resources that they require. 
 
 The Code of Conduct needs to be specific - your students are joining a new educational culture and have no context for understanding this without explicit explanation.
 
-![Maslow's Hierarchy](maslowhierarchy.jpg)
+![Maslow's Hierarchy](media/maslowhierarchy.jpg)
