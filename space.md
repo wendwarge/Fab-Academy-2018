@@ -1,6 +1,6 @@
 # Setting up an excellent learning space
 
-See also the Teaching Ethos section.
+See also the [Teaching Ethos](teaching_ethos.md) section.
 
 The students will be in your fab lab for about six months; making things, learning about and doing spiral development and relying on us and each other to get them through the programme. 
 
