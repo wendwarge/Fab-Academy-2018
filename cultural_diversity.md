@@ -50,6 +50,14 @@ Pay particular attention to facing each other when you're talking - we gain a lo
 
 You may think that your guest understands a conversation, but using a whiteboard or large sheet of paper as you discuss things can be super-helpful. If both of you agree that the conversation matches what is drawn, then it is a successful communication, and it is a map of the conversation for future reference. I often say - do you remember when I said... and a puzzled look will come over someone's face. If I re-phrase it and point to a part of the 'drawing', that person's face clears and the conversation continues.
 
+I provide two graphs with the caveat that these should be viewed with an open mind. They are interesting becuase they show real difference in cultural attitudes towards task completion and normal working hours. Please take the time to read the articles associated with these graphs. 
+
+![daily routines](daily-routines.png)![task completion](media/task-completion.png) 
+
+From [Silicon Republic](https://www.siliconrepublic.com/careers/hardworking-countries-research) and [Redbooth](https://redbooth.com/blog/productivity-by-country)
+
+I also encourage you to check out [If it were my home](https://www.ifitweremyhome.com/) which allows you to compare your country with the one your visitor is from.
+
 ## Pre Arrival and Arrival Orientation - things to consider as a host
 
 What do you think that your guest needs to know to prepare for their visit? Can you point them to useful websites, or summarise those useful websites so that the information is more accessible for your guest. It's just as easy to find misinformation on the internet as it is to find useful information. Be careful not to overload the person with information all at once, unless they request it. We now have a few documents that we share with our guests and then we meet a week later to discuss these as well as encouraging questions via one of the communication platforms we use. This includes the employment contract.
@@ -60,5 +68,5 @@ If we use Maslow's Hierarchy of Needs as a good starting point again, then we st
 
 **Safety needs:** It can be embarrassing, because you love your country, but you need to be honest. Can you leave your bags unattended in a cafe when you go to the counter to order coffee? Should you lock your doors and windows all of the time? Are public displays of affection legal? How does your visitor access healthcare? What is the emeergency phone number in your country? Where is the First Aid cabinet? Some of this will be covered prior to arriving but it's important to cover it again as part of the orientation.
 
-**Love & Belonging:** Hospitality is different in every country, and we all like to think that we make people feel at home. However, there are many confusing differences - some cultures will give a guest lots of space to adjust (potentially leaving a guest feeling neglected), others will have a full orientation programme organised (potentially leaving a guest feeling overwhelmed and exhausted). Tell your guest what you plan to do and ask them what they prefer. Welcome them, introduce them to the fabbers in the Lab. Show them where the bathrooms are! When does lunch happen and is it a two hour group event that occurs offsite or is it a 1/2 hour individual event in the Lab? Do not expect your guest to be absolutely comfortable instantly - each Lab is set up differently, has different systems, equipment and processes. 
+**Love & Belonging:** Hospitality is different in every country, and we all like to think that we make people feel at home. However, there are many confusing differences - some cultures will give a guest lots of space to adjust (potentially leaving a guest feeling neglected), others will have a full orientation programme organised (potentially leaving a guest feeling overwhelmed and exhausted). Tell your guest what you plan to do and ask them what they prefer. Welcome them, introduce them to the fabbers in the Lab. Show them where the bathrooms are! When does lunch happen (see the daily routines graph above) and is it a two hour group event that occurs offsite or is it a 1/2 hour individual event in the Lab? Do not expect your guest to be absolutely comfortable instantly - each Lab is set up differently, has different systems, equipment and processes. 
 

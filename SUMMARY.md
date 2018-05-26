@@ -8,6 +8,8 @@
 * [Teaching Ethos](teaching_ethos.md)
 * [Cultural Diversity](cultural_diversity.md)
 * [Reflective Practice](reflective_practice.md)
+* [Evaluation](evaluation.md)
+* [Challenging Behaviours](challenging_behaviours.md)
 * [Principles and Practices](principles_and_practices.md)
 * [Project Management](project_management.md)
 * [Computer-Aided Design](computer-aided_design.md)

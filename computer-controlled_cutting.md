@@ -14,3 +14,5 @@ We can make the group project that they design a giant pressfit kit together, an
 If pre-academy happened, then we can do something interesting here, like make screenprinted fab academy scarves with a 0011010101 pattern (to wear at Fab14) using [photochromic pigments](https://solarcolordust.com/t/solar-color-dust) or flexible circuit nametags.
 
 Go over how to resize and compress images & videos, where to store video and how to include files for download. Naming conventions for collaboration - what not to do: final.dxf, files.zip, fabacademy.stl, week'N'.html, untitled.svg, etc...
+
+[Jigsaw plugin](https://github.com/Neon22/inkscape-jigsaw)
