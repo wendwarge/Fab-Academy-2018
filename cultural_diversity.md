@@ -53,8 +53,11 @@ You may think that your guest understands a conversation, but using a whiteboard
 I provide two graphs with the caveat that these should be viewed with an open mind. They are interesting because they show real difference in cultural attitudes towards task completion and normal working hours. Please take the time to read the articles associated with these graphs. 
 
 ![daily routines](media/daily-routines.png)
+
 From [Silicon Republic](https://www.siliconrepublic.com/careers/hardworking-countries-research)
+
 ![task completion](media/task-completion.png) 
+
 and [Redbooth](https://redbooth.com/blog/productivity-by-country)
 
 I also encourage you to check out [If it were my home](https://www.ifitweremyhome.com/) which allows you to compare your country with the one your visitor is from.
