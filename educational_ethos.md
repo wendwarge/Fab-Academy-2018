@@ -40,3 +40,6 @@ You can now see why it's called Spiral Design - each cycle is successful in itse
 Asking questions that foster curiosity is a way of doing this. I might ask: are you curious to know whether you can achieve this step now? I wonder what would happen if you tried this? I'm curious - will you indulge me and try this step now? Is this a problem that must be solved, or did you create the problem and can you therefore remove the problem by moving in a different direction? Have you talked to at least three people about your results to find out what they think? A questioning technique used in design is to ask the question 'why' until you can't ask it anymore - why do you want to do this, why do you think it's important, why do you think this was the outcome, etc. Some of these questions might be asked at the beginning, others later in the process. Another version of this is: What, So what, and Now what?
 
 Again, students who are used to a standards-based system will see this as the instructor asking them to do extra work. They ask what is the standard and wonder why you ask other students to do one thing and them to do something else. 
+
+
+

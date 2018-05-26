@@ -32,3 +32,4 @@ If this is one of your students and you can see that they're heading in the wron
 If it's a big mistake though, it might be better to persist. Having a team approach to this situation helps - if all the staff know what the strategy is for the student's project, then everyone supports the decision to stop the student and is able to explain that we're doing it to help them. It's not helpful to have one staff member supporting the students acting like the good cop and implying that another staff member is the bad cop, unless you've decided together that it's a useful strategy. Talk with your students about this from the beginning, so that they will step in to stop each other from making big mistakes. It helps a lot. Incorporate this practice into a [Code of Conduct](space.md) and re-iterate it weekly.
 
 
+

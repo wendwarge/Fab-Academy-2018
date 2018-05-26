@@ -37,3 +37,6 @@ Throughout these activities, they will develop the habit of taking screenshots a
 - Posted a group photo on social media of the new fablabuae fab academy students
 - Ensured that there is 3 or 4mm corrugated cardboard ordered for Week Three and that there is enough electronics inventory for the fabISP project
 - Sent a message to all of the students reminding them of the time & place of the first class and thanking them for getting involved in Pre-Academy
+
+
+

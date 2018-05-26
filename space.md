@@ -21,3 +21,6 @@ Maslow's Hierarchy of Needs is a useful tool to help you develop a Code of Condu
 The Code of Conduct needs to be specific - your students are joining a new educational culture and have no context for understanding this without explicit explanation.
 
 ![Maslow's Hierarchy](media/maslowhierarchy.jpg)
+
+
+

@@ -41,3 +41,6 @@ I put my students forward for two reasons:
 It's a good idea to let the global evaluator know which category the student is in, via personal message, so that they aren't surprised when they begin the global eval. But if you don't feel comfortable doing that, they will realise anyway. They might wonder whether you know your stuff, but eventually it will become clear. If it does turn out that you don't know your stuff, you will learn something. 
 
 If you are in a situation where you disagree with the global evaluator, *you need to let that go*. It is no longer in your control. Don't harass the global evaluator. You might message them once to explain your perspective, or comment in the nueval if you think they have missed a point, but otherwise, *let it go*. Don't message them constantly at all times of day and night - this will not build a good relationship between you and may affect how they view your students as well as make it hard to build a relationship in the future. Having said that, we're all people, and very forgiving. 
+
+
+

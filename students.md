@@ -36,3 +36,5 @@ Example questions I might ask, depending on what they've written in their applic
 - Show people around the lab at the end so then you can point out the equipment that was used for each project. Display the final projects and the MTM project (if they all still exist) nearby so you can point them out. If you haven't got those, point out other projects that use similar skills. 
 - Have the application forms ready for people to fill out straightaway. Or a paper version for your local application. 
 
+
+
