@@ -50,11 +50,12 @@ Pay particular attention to facing each other when you're talking - we gain a lo
 
 You may think that your guest understands a conversation, but using a whiteboard or large sheet of paper as you discuss things can be super-helpful. If both of you agree that the conversation matches what is drawn, then it is a successful communication, and it is a map of the conversation for future reference. I often say - do you remember when I said... and a puzzled look will come over someone's face. If I re-phrase it and point to a part of the 'drawing', that person's face clears and the conversation continues.
 
-I provide two graphs with the caveat that these should be viewed with an open mind. They are interesting becuase they show real difference in cultural attitudes towards task completion and normal working hours. Please take the time to read the articles associated with these graphs. 
+I provide two graphs with the caveat that these should be viewed with an open mind. They are interesting because they show real difference in cultural attitudes towards task completion and normal working hours. Please take the time to read the articles associated with these graphs. 
 
-![daily routines](daily-routines.png)![task completion](media/task-completion.png) 
-
-From [Silicon Republic](https://www.siliconrepublic.com/careers/hardworking-countries-research) and [Redbooth](https://redbooth.com/blog/productivity-by-country)
+![daily routines](media/daily-routines.png)
+From [Silicon Republic](https://www.siliconrepublic.com/careers/hardworking-countries-research)
+![task completion](media/task-completion.png) 
+and [Redbooth](https://redbooth.com/blog/productivity-by-country)
 
 I also encourage you to check out [If it were my home](https://www.ifitweremyhome.com/) which allows you to compare your country with the one your visitor is from.
 
