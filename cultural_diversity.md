@@ -2,9 +2,9 @@
  
 There are many things to consider when inviting someone, whether it's mentors or students for Fab Academy or for another project, from the global community to join you in your Fab Lab. Or for that matter, when you're collaborating at a distance or visiting other fab labs.
 
-The global Fab network has led to a connection of international people in a extraordinary way. In the past, we would collaborate with people from our own or nearby countries, whereas now we are talking on a daily basis to many people from different countries, using a variety of platforms as well as in person. Accordingly, we need new skills to do this.
+The global Fab network has led to a connection of international people in a new way. In the past, we would collaborate with people from our own or nearby countries, whereas now we are talking on a daily basis to many people from different countries, using a variety of platforms as well as in person. Accordingly, we need new skills to do this.
 
-But most of us don't know much about how local culture impacts on our global interaction. Even those who have travelled and have lived overseas often have few strategies for dealing with the cross-cultural complexity that affects day-to-day interactions between diverse cultures.
+Most of us don't realise how much local culture impacts on our global interaction. Even those who have travelled and have lived overseas often have few strategies for dealing with the cross-cultural complexity that affects day-to-day interactions between diverse cultures.
 
 The richness of our cultural diversity is not something that we should lose or try to 'fix' by making it bland and uniform - each of us brings our own unique perspective, and fab labs must be spaces where these differences are understood and are celebrated as being beneficial to our overall development. How can we change the world if everyone isn't involved? It's just another form of colonisation, if everybody has to become like one particular culture to succeed in the fab network.
 
@@ -12,7 +12,7 @@ It's easy to say 'Oh, they're never on time - how do they ever get anything done
 
 A great book for helping us understand this is the [Culture Map](https://www.erinmeyer.com/book/) by Erin Meyer. 
 
-An example of her thinking around this is the differences in attitudes to scheduling. 
+An example of her research on this is the differences in attitudes to scheduling. 
 
 ![Scheduling Differences](media/culturemapscheduling.jpg)
 

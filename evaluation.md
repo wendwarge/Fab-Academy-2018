@@ -20,7 +20,7 @@ Because it proves that you understood _what_ you were doing and _why_ you were d
 
 ## Local Evauation
 
-Think very carefully about how you set up a collaborative learning environment [see Teaching Ethos](teaching_ethos.md). It may be that it isn't possible within the culture or with the particular group of students you have.
+Think very carefully about how you set up a collaborative learning environment [see Teaching Ethos](teaching_ethos.md). It may be that it isn't possible within the culture or with the particular group of students you have. Or it may be that the positive culture deteriorates when the pressure of the deadlines increases. This is usually in the second half of Fab Academy - the assignments become much more complex, and the students generally have a number of old assignments to complete. 
 
 If I have been able to establish a positive group culture, I usually put an analogue version in poster form of the assessment progress in the Fab Academy space. The idea of it is to help the students see how they are progressing in comparison to each other. They will use it to help each other. If two students haven't finished one assignment, they will see it and will work together to finish it. They will congratulate each other on their successes. 
 

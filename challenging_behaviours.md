@@ -7,12 +7,12 @@ I used to have a colleague who would take on tasks in a group project, and then 
 ## Classic Avoidance Behaviours
 
 Anything that someone does to avoid doing what they are supposed to be doing, but examples are:
-- arriving too late or not arriving at all
-- talking about anything else
-- avoiding people
-- telling little lies (claiming other responsibilities, sickness, dramas, traffic jams, broken phone/computer etc)
-- pretending lack of understanding or that they didn't 'get the memo'
-- 'demonising' the instructor (they're unfair, mean, don't know what they're talking about, why should I listen to them)
+- arriving too late or not arriving at all (without advising others)
+- talking about anything else (distraction technique)
+- avoiding people 
+- telling little lies (claiming other responsibilities, sickness, dramas, traffic jams, broken phone/computer etc) even though the truth would allow others to help them
+- pretending lack of understanding or that they didn't 'get the memo' (as above)
+- blaming the instructor/the lab (they're unfair, don't know what they're talking about, the machines are always broken, they just want us for the fees)
 
 Ideally your students can identify these behaviours themselves. If not, a general session about dealing with the stress of impending deadlines might help here. If they turn up, it may help them, if they don't, at least you've tried. Some of these behaviours are very ingrained and it's not up to us to fix absolutely everything.
 
@@ -25,7 +25,7 @@ Also, you might find that there are significant cultural differences that can be
 
 ## Panicky Decisions
 
-When we get stressed, we sometimes make poor decisions, especially in a situation where we don't have much experience. For instance, if you've been avoiding doing an assignment and then you suddenly realise that the deadline is near, you might decide to just do the assignment you've been avoiding. Often this results in a poor outcome because you haven't planned properly, missed out important steps, and it's the first time you've done something. 
+When we get stressed, we sometimes make poor decisions, especially in a situation where we don't have much experience. For instance, if you've been avoiding doing an assignment and then you suddenly realise that the deadline is near, you might decide to just do the assignment you've been avoiding. Often this results in a poor outcome because you haven't planned properly, missed out important steps, and it's the first time you've done something. Also, there is a tendancy to load all of the incomplete assignments into the final project in a an attempt to complete them all at once. While it is a good idea to integrate assignments into the final project, it is not a good idea to rely too heavily on your final project solving all the problems. 
 
 If this is one of your students and you can see that they're heading in the wrong direction and making lots of unnecessary work for themselves, you'll want to help them by stopping them. Their response might be resentment. They think you're stopping them from completing their task, whereas you think you're stopping them from making a huge mistake. In this situation, sometimes it's best to step down and allow them to make the mistakes, and then help them fix it afterwards. 
 
