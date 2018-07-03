@@ -4,6 +4,7 @@
 * [Selecting Students](students.md)
 * [Student Space](space.md)
 * [Pre-Academy](pre_academy.md)
+* [Instructor Team](instructor_team.md)
 * [Educational Ethos](educational_ethos.md)
 * [Teaching Ethos](teaching_ethos.md)
 * [Cultural Diversity](cultural_diversity.md)

@@ -8,7 +8,7 @@ Host information evenings and advertise them as above. See below for an outline.
 
 - if there's enough interest, you could host a 2nd 'higher level' one, where the potential students could make something together, stickers, pressfit something, 3D print.
 
-## Selecting students
+## Interviewing students
 
 I can be available for short conversations with potential students in my evening/your morning. 
 
@@ -28,13 +28,24 @@ Example questions I might ask, depending on what they've written in their applic
 
 ## Information evening for shortlisted applicants
 
-- Tell people what the plan for the evening is. "First we're going to..." and don't forget to tell them that they'll be able to look around at the end. (Wendy)
-- Have a round of introductions so that everyone begins to know each other and what their background is. (Wendy)
-- Talk about who will be the instructors this cycle and the overall programme. (Wendy & Ahmed)
-- Speak of your own experience with Fab Academy and show a bit of your progress on your page. Invite another graduate to talk as well. Laugh and agree with each other a lot. Laugh about how hard you worked, how much you learnt and how much fun you had. (Ahmed & ...)
-- Have a slide show on a big screen as people enter the room - photos of you all working hard, making things, your final project slides, photos at Fab 13. (Ahmed and/or Marwa to arrange)
+- Tell people what the plan for the evening is. "First we're going to..." and don't forget to tell them that they'll be able to look around at the end.
+- Have a round of introductions so that everyone begins to know each other and what their background is. 
+- Talk about who will be the instructors this cycle and the overall programme. 
+- Speak of your own experience with Fab Academy and show a bit of your progress on your page. Invite another graduate to talk as well. Laugh and agree with each other a lot. Laugh about how hard you worked, how much you learnt and how much fun you had. 
+- Have a slide show on a big screen as people enter the room - photos of you all working hard, making things, your final project slides, photos at Fab X. 
 - Show people around the lab at the end so then you can point out the equipment that was used for each project. Display the final projects and the MTM project (if they all still exist) nearby so you can point them out. If you haven't got those, point out other projects that use similar skills. 
 - Have the application forms ready for people to fill out straightaway. Or a paper version for your local application. 
 
+## Selecting students
+
+I suggest that you consider offering two options for Fab Academy applicants. 
+
+1. A local, Fab Lab UAE, Fab Academy Certificate that is only the projects up until moulding and casting. Instead of a final project sketch, the first project for a certificate person would be to investigate and understand how online libraries/repos like Thingiverse, the Noun Project, projects on Github, Obrary etc apply a range of licenses. Then they use a template for their website and they attribute correctly, they print something from the Noun Project on the Vinyl cutter in CCC week before they design their own, they use a torture test from thingiverse in the 3D print tests that they attribute correctly.
+
+The projects for the first half of academy rarely change. It's my belief that students drop off in the second half, so this way they have a successful exit point from the first half. In following years, they can apply to carry on with the fab academy diploma by proposing a final project in the form of Applications & Implications documentation. They will actually be in a much better position to put forward a realistic proposal than many of the students at the beginning of fab academy.
+
+This programme would run at the same time as the official Diploma, so that there is no double teaching. 
+
+2. The Fab Academy Diploma for those who have done a Pre-Academy course and shown that they are able to commit to the time for the whole programme.
 
 

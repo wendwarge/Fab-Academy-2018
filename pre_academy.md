@@ -2,8 +2,6 @@
 
 It is a good idea to offer some sessions prior to Academy. These sessions serve a few purposes: to introduce the students to some basic skills and the fab lab spaces, to introduce them to the ethos of the programme and thirdly, **most importantly**, introduce them to each other & the instructor/s. Building a strong team feeling early in the programme will help everyone to succeed together instead of competitively.
 
-I can phone in as the 'regional reviewer' at the beginning to introduce the day's work with a short lecture and Carl can be a remote student. It'll be a taste of the global programme in every way.
-
 Activities that I suggest are:
 
 - learning about Open Source licenses. Look at the Creative Commons [website](https://creativecommons.org/) and examine a few examples of people using open licenses - [Ultimaker](https://en.wikipedia.org/wiki/Ultimaker), [thingiverse](https://en.wikipedia.org/wiki/Thingiverse), [wikipedia](https://en.wikipedia.org/wiki/History_of_Wikipedia). Do the group project for the 3D printing week: download a torture test from thingiverse. Check and discuss the license - what would you write on your fab academy page to acknowledge this license? Discuss what sort of license you might choose for your final project. If you modified the torture test and uploaded the new version to thingiverse, how would you acknowledge the originator? *Fab Lab UAE to 'tip the designer' on behalf of the students and to ensure the students know that it has been done.*
