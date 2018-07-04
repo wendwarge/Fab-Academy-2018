@@ -1,6 +1,6 @@
 # Evaluation
 
-Evaluation is an important part of Fab Academy, not only because it allows us to set a standard, but because it helps us to identify whether our students have learnt the things that we've taught. 
+Evaluation is an important part of Fab Academy, not only because it allows us to set a standard, but because it helps us to identify whether our students have learnt the things that we've taught.
 
 Therefore it is essential that it begins early and is ongoing. If a student's documentation doesn't indicate that they've learnt the necessary things, then we are provided with an extra teaching opportunity and can remedy the situation.
 
@@ -12,11 +12,11 @@ This creates an atmosphere of fear, and reluctance to ask 'dumb questions'. On a
 
 Each layer of evaluation is an opportunity for everyone to learn. Maybe the student has missed some information, maybe the local evaluator didn't know about the skill or technique you think is absolutely essential, maybe the global evaluator doesn't know about the the skill or technique you think is absolutely essential. 
 
-I'm not saying I don't get frustrated sometimes. I know I've taught something on a number of occasions and the students show absolutely no sign of having learnt it. But that's why teaching and learning are two separate things. 
+I know I've taught something on a number of occasions and the students show absolutely no sign of having learnt it. But that's why teaching and learning are two separate things. 
 
 ## Why, why, why do we have to describe and explain everything?
 
-Because it proves that you understood _what_ you were doing and _why_ you were doing it. It is not enough to say you did it, you need to say _how_ you did it. Having HTML in your repo is not proof that you understand what it does; explaining elements of HTML proves that you understand it and can adjust it. It will also help others, and yourself, in the future. Think about how much time you have spent looking at other people's work to understand how to do a weekly assignment - it's time to pay it back by offering your own tips and hints. Also, think about how often you wish that you'd made notes on something new or something you don't do very often - it's time to train yourself to do this. Read also the section on [Reflective Practice](reflective_practice.md)
+Because it proves that you understood _what_ you were doing and _why_ you were doing it. It is not enough to say you did it, you need to say _how_ you did it. Having HTML in your repo is not proof that you understand what it does; explaining elements of HTML proves that you understand it and can adjust it. It will also help others, and yourself, in the future. Think about how much time you have spent looking at other people's work to understand how to do a weekly assignment - it's time to pay it back by offering your own tips and hints. Also, think about how often you wish that you'd made notes on something new or something you don't do very often - it's time to train yourself to do this. Read also the section on [Reflective Practice](reflective_practice.md).
 
 ## Local Evauation
 
@@ -30,17 +30,19 @@ If I haven't been able to build that culture, and there is an atmosphere of mist
 
 In this situation, I would remove the poster (because we're not using it and it's a waste of wall space) or not put it up at all. Also, in this situation, you need to remember that if it's not written down, it doesn't exist. It's been a little disturbing to discover that it's true. If you don't write the feedback in nueval, then it's another thing that your students will act as though they've never heard. While it's useful to sit and discuss progress with individual students, don't forget to write it down where they can also see it.
 
+Local evaluation should make you confident that your student has met the objectives of Fab Academy and that you would reccomend them to another Fab Lab as a good fabber or a potential employee. Neil always says that they should be ready to be instructors. I find that some graduates would be good instructors, but others only if they were working with more experienced team members (or people with an educational background) who lead the programme, and others will never be instructors. This is not an easy thing to judge, but essentially; if they went to another Lab saying that they studied at your Fab Lab and then didn't know the difference between a capacitor and a resistor, would you be embarrassed?
+
 ## Global Evaluation
 
 Global evaluation is another opportunity for intructors to get to know each other, and for the students to meet another person from the network. As a global evaluator, I will usually contact the instructor of the students I am evaluating before I begin and introduce myself. I check the feedback they have written before I write my own. I tend to write a lot in the feedback - sometimes just helpful hints and links, sometimes very clear instructions to improve their documentation so that it meets the objectives. It all depends on the student.
 
-I put my students forward for two reasons:
+I put my own students forward to Global eval for two reasons:
 - because I think that they are ready
-- because I want someone else to tell them the things I have been doing so that they'll actually do it 
+- because I want someone else to tell them the things I have been doing so that they'll actually do it (only since continuous global evaluation was established)
 
 It's a good idea to let the global evaluator know which category the student is in, via personal message, so that they aren't surprised when they begin the global eval. But if you don't feel comfortable doing that, they will realise anyway. They might wonder whether you know your stuff, but eventually it will become clear. If it does turn out that you don't know your stuff, you will learn something. 
 
 If you are in a situation where you disagree with the global evaluator, *you need to let that go*. It is no longer in your control. Don't harass the global evaluator. You might message them once to explain your perspective, or comment in the nueval if you think they have missed a point, but otherwise, *let it go*. Don't message them constantly at all times of day and night - this will not build a good relationship between you and may affect how they view your students as well as make it hard to build a relationship in the future. Having said that, we're all people, and very forgiving. 
 
-
+If you really really _really_ disagree with the global evaluator, contact Fab Academy co-ordination and request a meeting. Be very sure that you are not being over-protective of your student. Is this something that you would stake your reputation on? If you are assigned another global evaluator, and they have the same response as the initial evaluator, it will be harder to make the same application for another student. It will seem that you are unable to accurately assess your own students' abilities.
 

@@ -1,6 +1,6 @@
 ## Instructor team
 
-As mentioned at the beginning, it is preferable to have a small team of instructors than an individual who is responsible for absolutely everything.
+As mentioned at the beginning, it is preferable to have a small team of instructors than one individual who is responsible for absolutely everything.
 
 Consider your potential team, and the individual strengths of each member in the context of Fab Academy.
 

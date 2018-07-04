@@ -8,7 +8,7 @@ Activities that I suggest are:
 
 - learn about using BASH. Follow the Bash for Beginners [tutorial](https://help.ubuntu.com/community/Beginners/BashScripting) or another tutorial that you like more.
 
-- practice some basics using open source software. Learn how to resize & compress photos using Gimp. Use [ImageMagick](https://www.imagemagick.org/script/index.php) to change image size via command line. Make a vinyl sticker in Inkscape. Download an SVG from [The Noun Project](https://thenounproject.com/) Pay attention to the licence. Print it using Fab Modules. Make a tinkercad model and print it out, using the knowledge gained from the torture test. Try out [Antimony](http://www.mattkeeter.com/projects/antimony/3/) & [NodeBox3](https://www.nodebox.net/node/).  
+- practice some basics using open source software. Learn how to resize & compress photos using Gimp. Use [ImageMagick](https://www.imagemagick.org/script/index.php) to change image size via command line. Make a vinyl sticker in Inkscape. Download an SVG from [The Noun Project](https://thenounproject.com/) Pay attention to the licence. Print it using Fab Modules. Make a tinkercad or 3Dbuilder model and print it out, using the knowledge gained from the torture test. Try out [Antimony](http://www.mattkeeter.com/projects/antimony/3/) & [NodeBox3](https://www.nodebox.net/node/).  
 
 - do a git [tutorial](https://try.github.io/levels/1/challenges/1) or [two](http://learngitbranching.js.org/).
 
@@ -18,7 +18,7 @@ I would combine these into 2 sessions, where they do some computing and some mak
 
 If there's time, they could also:
 
-- make a fabISP (inventory?)
+- make a fabISP, whichever one you want to.
 
 - learn some fusion 360 and copy someone else's pressfit kit from a previous year. Evaluate that person's documentation and decide whether you would do it differently & how. Is it the layout of the website, the style of writing, too many images/not enough images etc. Use a pre-existing [grasshopper definition](http://www.co-de-it.com/wordpress/code/grasshopper-code) such as Seamless Pattern and adjust it, then print it out.   
 

@@ -31,8 +31,8 @@ Examples other people's work can include:
 
 *Always check the licenses* You do not want to end up with a final project that can't be continued or has to be unpublished because you've ignored the conditions of a license for the code you used.
 
-## Compress and resize your images and videos Design files in original format and generically readable format
-Don't fill up your repo with unnecessary 'weight'. Don't rely on code to resize your images. Platforms with free storage have a limited size, and when you're paying for your own storage you want to be conservative.
+## Compress and resize your images and videos + Design files in original format and generically readable format
+Don't fill up your repo with unnecessary 'bloat'. Don't rely on code to resize your images. Make your images the same size as they are viewed on the page. Platforms with free storage have a limited size, and when you're paying for your own storage you want to be conservative.
 
 ## Design files in original format and generically readable format
 Make it possible for anyone to see what you're working on and, if they have the software you're using, to modify and make adaptations. Don't limit opportunities by locking your work into proprietary software.
